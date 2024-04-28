@@ -1,6 +1,6 @@
 body{
     background-position: center;
-    background-image: url('https://hakko.dev/assets/img/bg.jpg');
+    background-image: url('/assets/img/bg.png');
     background-attachment: fixed;
     -moz-background-size: cover;
     -webkit-background-size: cover;
